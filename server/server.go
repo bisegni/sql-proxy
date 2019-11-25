@@ -88,7 +88,7 @@ func (s *Server) Start() {
 	//  if err := plugins.Init(); err != nil {
 	// 	 log.Panic("proxy.plugins.init.panic:%+v", err)
 	//  }
-	var endpoint string = "127.0.0.1"
+	var endpoint string = "127.0.0.1:3306"
 	proxy := proxy.NewProxy(log, serverVersion)
 	if err := proxy.Init(); err != nil {
 		log.Panic("server.proxy.init.panic:%+v", err)
