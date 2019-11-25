@@ -1,0 +1,4 @@
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/xelabs/go-mysqlstack v0.0.0-20190508011117-54730e642e0f h1:u7y9iedBoBfDIQwEhNdAWqnq8LSEmbMmytY56dCKr70=
+github.com/xelabs/go-mysqlstack v0.0.0-20190508011117-54730e642e0f/go.mod h1:m9feITJq0ZXhBKK0R5BIJa5/2XDQguOWPRvMVyV4i4A=
